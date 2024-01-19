@@ -1,0 +1,42 @@
+-Why do you like to join as a Software developer?
+         I am enthusiastic about joining your company as a Software Developer for several reasons. Firstly, I am genuinely passionate about software development and find immense satisfaction in creating efficient and robust solutions to real-world problems. I am eager to join as a Software Developer because of my genuine passion for the field, the opportunity to contribute to innovative projects, and the positive and collaborative culture your company fosters.
+
+-List top 3 softwares / tools that inspire you. Why do these tools inspire you?
+
+1.Eclipse IDE
+2.Git
+3.Docker
+
+    Eclipse IDE is a versatile and widely used integrated development environment that supports multiple programming languages, including Java.
+
+    Git is a distributed version control system.It has ability to manage and track changes in source code, facilitate collaboration among team members makes it an indispensable tool in the development lifecycle.
+
+    Its ability to manage and track changes in source code, facilitate collaboration among team members, and support branching and merging makes it an indispensable tool in the development lifecycle.
+
+-List top 3 organisations you like to join in your career & why you like these organisations.
+
+1.Google
+2.Microsoft
+3.Amazon
+
+
+     This three organizations widely recognized for their positive work environments and innovation include Google-known for fostering creativity and impactful products, Microsoft-valued for its technological advancements and commitment to diversity and Amazon- admired for its customer centric approach and diverse business opportunities, especially in areas like cloud computing.
+
+-How you position yourself in this industry after 2 years.
+
+     As a recent graduate entering the dynamic field of software development, my focus over the next two years is on rapid skill acquisition, practical experience, and contributing to impactful projects. I am committed to becoming a well-rounded software developer by immersing myself in your organization's projects, collaborating with experienced team members, and continually expanding my technical proficiency.
+
+-List 3 projects / products you have built or have planned to build in the upcoming year, also explain your role in the same.
+
+1.Attendace management system
+• Led the development of an Attendance Management System Leveraging Java, MySQL, Servlets, HTML and CSS.
+• The system provides a comprehensive solution for tracking and managing attendance records in an educational or organizational setting.
+• Designed a user-friendly web interface using HTML and CSS for easy navigation and interaction.
+• "Utilized JDBC (Java Database Connectivity) to establish a seamless and efficient connection between the Attendance Management
+System and MySQL database, enabling secure and reliable retrieval and storage of attendance data.
+
+2.Food Donation Foundation
+Founded and led the development of a Food Donation Foundation project aimed at addressing food wastage and facilitating donations. Designed and implemented a web-based platform using modern technologies to connect food donors with local charities.
+
+3.Breast Cancer Detection using Machine Learning and Cross-Validation
+Initiated and led the development of an innovative Breast Cancer Detection system leveraging machine learning and cross-validation techniques.
