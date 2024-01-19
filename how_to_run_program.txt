@@ -1,0 +1,9 @@
+1.using commnd line
+step 1:open command line
+step 2:go to directory where you save file using CD
+step 3:compile it using javac Assignment.java
+step 4:run it using commanf - java Assignment
+
+2.using Eclipse IDE
+step 1:open file in Eclipse IDE
+step 2:run file using run button
